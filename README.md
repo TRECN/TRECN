@@ -1,4 +1,4 @@
-# 💫 Rishabh Taj Tarun
+# 💫 Rishabh Raj Tarun
 I'm a passionate MERN stack and React Native developer
 
 
